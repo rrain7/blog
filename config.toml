@@ -1,0 +1,12 @@
+baseURL = 'http://localhost'
+languageCode = 'en-US'
+title = ''
+theme = 'hugo-geekdoc'
+
+# Geekdoc required configuration
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+disablePathToLower = true
+
+[params]
+# geekdocLogo = "logo.png"
